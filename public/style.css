@@ -1,0 +1,31 @@
+ code {
+    background-color: whitesmoke;
+}
+
+section, header {
+    margin: 50px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    opacity: 0.8;
+    text-align: center;
+}
+
+body {
+  background-image: url('https://images.pexels.com/photos/1370295/pexels-photo-1370295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-color: #fff;
+}
+
+footer {
+  background-color: #fff;
+  opacity: 0.8;
+  border-radius: 25px;
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  color: #222;
+  padding: 10px;
+}
+
